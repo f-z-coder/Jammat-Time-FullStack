@@ -6,7 +6,7 @@ async function patchNamazTimeHandler(req, res) {
     const updatedNamazTime = await updateNamazTime(place_id, namazTimeDetails);
     res.status(202).json(updatedNamazTime);
   } catch (err) {
-    res.status(500).json({ message: err.message });
+    res.status(500).json({ Error: err.message });
   }
 }
 module.exports = patchNamazTimeHandler;

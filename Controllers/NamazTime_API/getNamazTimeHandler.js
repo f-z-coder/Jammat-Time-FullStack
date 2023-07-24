@@ -5,7 +5,7 @@ async function getNamazTimeHandler(req, res) {
     const NamazTimeData = await getNamazTime(place_id);
     res.status(200).json(NamazTimeData);
   } catch (err) {
-    res.status(500).json({ message: err.message });
+    res.status(500).json({ Error: err.message });
   }
 }
 module.exports = getNamazTimeHandler;
