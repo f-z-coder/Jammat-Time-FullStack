@@ -5,8 +5,6 @@ async function postNamazTimeHandler(req, res) {
   try {
     const createdNamaztime = await createNamazTime(place_id, namazTimeDetails);
     res.status(201).json(createdNamaztime);
-  } catch (err) {
-    res.status(500).json({ Error: err.message });
-  }
+  } catch (err) {}
 }
 module.exports = postNamazTimeHandler;
