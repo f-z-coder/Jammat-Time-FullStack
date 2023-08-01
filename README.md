@@ -1,7 +1,5 @@
 # Jammat-Time 🕌🌟
 
-![Jammat-Time](jammat-time-demo.mp4)
-
 ## Overview
 
 Jammat-Time is a community-driven project that helps users find accurate prayer timings in nearby mosques when visiting new places. This project was born out of the need to address the challenge of finding prayer timings in unfamiliar locations and aims to empower individuals facing similar situations.
@@ -14,9 +12,9 @@ Jammat-Time is a community-driven project that helps users find accurate prayer 
 
 - **Edit and Save Prayer Timings**: If you come across incorrect prayer timings, you can edit and save accurate information to help others in the community.
 
-## Demo
+## Try It Out
 
-![Jammat-Time Demo](ForReadme/jammat-time-demo.mp4)
+Experience the magic of Jammat-Time by visiting the website: [https://jammat-time.onrender.com](https://jammat-time.onrender.com)
 
 ## Tech Stack
 
