@@ -1,6 +1,6 @@
 # Jammat-Time 🕌🌟
 
-![Jammat-Time](jammat-time-demo.gif)
+![Jammat-Time](jammat-time-demo.mp4)
 
 ## Overview
 
@@ -16,23 +16,26 @@ Jammat-Time is a community-driven project that helps users find accurate prayer 
 
 ## Demo
 
-![Jammat-Time Demo](jammat-time-demo.gif)
+![Jammat-Time Demo](ForReadme/jammat-time-demo.mp4)
 
 ## Tech Stack
 
 The project has been built using the following technologies:
 
 - Frontend:
+
   - React
   - Material UI
   - HTML, CSS, JavaScript
 
 - Backend:
+
   - Node.js
   - Express.js
   - REST API
 
 - Database:
+
   - MongoDB on Atlas Cloud
 
 - APIs:
