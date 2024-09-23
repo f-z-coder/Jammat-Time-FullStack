@@ -47,7 +47,7 @@ The project has been built using the following technologies:
     
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/F-z-Coder/Jammat-Time-FullStack.git`
+1. Clone the repository: `git clone https://github.com/f-z-Coder/Jammat-Time-FullStack.git`
 2. Navigate to the project directory: `cd Jammat-Time-FullStack`
 3. Install dependencies: `npm install`
 
