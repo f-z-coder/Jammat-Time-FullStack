@@ -1,12 +1,12 @@
-# Jammat-Time 🕌🌟
+# Jamaat-Time 🕌🌟
 
 ## Overview
 
-Jammat-Time is a community-driven project that helps users find accurate prayer timings in nearby mosques when visiting new places. This project was born out of the need to address the challenge of finding prayer timings in unfamiliar locations and aims to empower individuals facing similar situations.
+Jamaat-Time is a community-driven project that helps users find accurate prayer timings in nearby mosques when visiting new places. This project was born out of the need to address the challenge of finding prayer timings in unfamiliar locations and aims to empower individuals facing similar situations.
 
 ## Key Features
 
-- **Accurate Prayer Timings**: Jammat-Time provides precise and up-to-date prayer timings for nearby mosques, ensuring you never miss a prayer again.
+- **Accurate Prayer Timings**: Jamaat-Time provides precise and up-to-date prayer timings for nearby mosques, ensuring you never miss a prayer again.
 
 - **Search Mosque in a Particular Area**: Seamlessly locate mosques within your desired locality, making it even more convenient to attend prayers.
 
@@ -18,7 +18,7 @@ Jammat-Time is a community-driven project that helps users find accurate prayer 
 
 ## Try It Out
 
-Experience the magic of Jammat-Time by visiting the website: [https://jammat-time.onrender.com](https://jammat-time.onrender.com)
+Experience the magic of Jamaat-Time by visiting the website: [https://jamaat-time.netlify.app](https://jamaat-time.netlify.app)
 
 ## Tech Stack
 
@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Special thanks to all contributors for their efforts in making Jammat-Time a reality!
+Special thanks to all contributors for their efforts in making Jamaat-Time a reality!
 
 ## Contact
 
